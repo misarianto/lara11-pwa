@@ -1,0 +1,42 @@
+{
+    "name": "MobileApp",
+    "short_name": "MobileApp",
+    "description": "",
+    "start_url": "http://localhost:8000",
+    "display": "standalone",
+    "background_color": "#ebeaea",
+    "theme_color": "#f9fafb",
+    "orientation": "potrait-primary",
+    "icons": [
+        {
+            "src": "/pwa/icons/windows11/SmallTile.scale-100.png",
+            "type": "image/png",
+            "sizes": "71x71" 
+        },
+        {
+            "src": "/pwa/icons/windows11/SmallTile.scale-125.png",
+            "type": "image/png",
+            "sizes": "89x89" 
+        },
+        {
+            "src": "/pwa/icons/windows11/SmallTile.scale-150.png",
+            "type": "image/png",
+            "sizes": "107x107" 
+        },
+        {
+            "src": "/pwa/icons/windows11/SmallTile.scale-200.png",
+            "type": "image/png",
+            "sizes": "142x142" 
+        },
+        {
+            "src": "/pwa/icons/windows11/SmallTile.scale-400.png",
+            "type": "image/png",
+            "sizes": "284x284" 
+        },
+        {
+            "src": "/pwa/icons/windows11/Square150x150Logo.scale-100.png",
+            "type": "image/png",
+            "sizes": "150x150" 
+        }
+    ]
+}
